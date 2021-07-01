@@ -1,6 +1,6 @@
 {
   "name": "@appzmonster/msal-token-interceptor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Msal-Token-Interceptor is a request interceptor which uses Microsoft MSAL to handle OAuth 2.0 token exchange with Microsoft Identity Platform during a fetch request. This is part of fetch-interceptor family.",
   "main": "index.js",
   "scripts": {
